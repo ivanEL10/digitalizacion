@@ -1,4 +1,4 @@
-# Bases de datos
+# DIGITALIZACIÓN
 
 # Tecnologías Habilitadoras Digitales para la Transformación de las Empresas
 
